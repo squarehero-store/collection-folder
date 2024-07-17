@@ -1,3 +1,8 @@
+  
+// ============================================
+//   SquareHero Collection Folder v0.1.0   
+// ============================================
+
   document.addEventListener("DOMContentLoaded", function () {
     function createFolderItems(container, items, isMobile = false) {
       items.forEach(item => {
